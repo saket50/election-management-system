@@ -1,0 +1,11 @@
+C:\Users\2024\Desktop\Election Management System\EMS.exe
+C:\Users\2024\Desktop\Election Management System\EMS.dll
+C:\Users\2024\Desktop\Election Management System\EMS.deps.json
+C:\Users\2024\Desktop\Election Management System\EMS.runtimeconfig.json
+C:\Users\2024\Desktop\Election Management System\EMS.pdb
+C:\Users\2024\Desktop\Election Management System\System.Data.SqlClient.dll
+C:\Users\2024\Desktop\Election Management System\runtimes\win-arm64\native\sni.dll
+C:\Users\2024\Desktop\Election Management System\runtimes\win-x64\native\sni.dll
+C:\Users\2024\Desktop\Election Management System\runtimes\win-x86\native\sni.dll
+C:\Users\2024\Desktop\Election Management System\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\2024\Desktop\Election Management System\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
