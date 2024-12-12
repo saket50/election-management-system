@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\2024\source\repos\EMS\EMS\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="add_mang_candidate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voters_home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voters_settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voter_forgot_password.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voter_management.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vote_page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="voting_poll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_create.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="V_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
